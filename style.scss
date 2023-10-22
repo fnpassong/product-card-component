@@ -144,4 +144,8 @@ body {
             color:#fff;
         }
     }
+
+    &__button:hover {
+        background-color:hsl(158, 37%, 30%);
+    }
 }
